@@ -146,7 +146,7 @@ cython_debug/
 ###
 *.pkl
 # *.npy
-*.txt
+# *.txt
 *.csv
 *.pth
 # *.md
