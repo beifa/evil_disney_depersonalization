@@ -69,7 +69,7 @@ Home:
         CPU times: user 14.6 s, sys: 965 ms, total: 15.5 s
         Wall time: 1min 9s
 ```
-Tets pass  1Million lines:
+Test pass  1Million lines:
 ```
 Colab:
     mask:
